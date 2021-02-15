@@ -13,7 +13,8 @@
   - [Python](https://www.python.org/)
   - [jenkins CI/CD](https://www.jenkins.io/doc/book/pipeline/),
   - [pytest](https://docs.pytest.org/en/stable/),
-  - [LeTP](https://github.com/legatoproject/LeTP)
+  - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  - [Golang](https://golang.org/)
 
 - 🎵️🎶️ I’m currently playing with backend, micro-service, system design, jenkins pipeline.
 
