@@ -12,11 +12,11 @@
 - 🔭 I’m currently working with
   - [Python](https://www.python.org/)
   - [jenkins CI/CD](https://www.jenkins.io/doc/book/pipeline/),
-  - [pytest](https://docs.pytest.org/en/stable/),
   - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [Golang](https://golang.org/)
+  - [Teamcity](https://www.jetbrains.com/help/teamcity/teamcity-documentation.html)
 
-- 🎵️🎶️ I’m currently playing with backend, micro-service, system design, jenkins pipeline.
+- 🎵️🎶️ I’m currently playing with backend, micro-service, system design, Teamcity, data visualization.
 
 - 🌱🌳️ I’m currently learning history, psychology, philosophy, management.
 
