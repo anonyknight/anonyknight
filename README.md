@@ -1,8 +1,8 @@
 <h2 align="center">Welcome! 👋, I'm Dingan(Will) Wang </h2>
 
 <p align="center">
-<a href=https://twitter.com/wda007 target="_blank">
-    <img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="wda007" height="28" width="28" />
+<a href=https://anonyknight.github.io/ target="_blank">
+    <img align="center" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg alt="My github.io" height="28" width="28" />
     </a>
 <a href=https://linkedin.com/in/dingan-will-wang target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="dingan-will-wang" height="28" width="28" /></a>
 </p>
